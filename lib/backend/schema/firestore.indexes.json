@@ -1,0 +1,18 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "online_pool",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "mediator",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "start",
+          "order": "DESCENDING"
+        }
+      ]
+    }
+  ]
+}
