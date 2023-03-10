@@ -2,7 +2,7 @@
 
 Communico was a concept to connect Ukrainian refugees with bilingual people who can help them translate in another country.
 
-I bootstrapped this app prototype using Flutter Flow, jitsi meet and firebase in a few days. The developement process was preceded by various interviews and usability studies of refugee helpers and bilingual people, and personal volunteering.
+I bootstrapped this app prototype using Flutter Flow, jitsi meet and firebase in a few days during the summer of 2022. The developement process was preceded by various interviews and usability studies of refugee helpers and bilingual people, and personal volunteering.
 
 There's a corresponding mediator app [here](https://github.com/defo10/communico-mediator-app).
 
